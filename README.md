@@ -2,7 +2,8 @@
 
 A semi-supervised locality-preserved dimensionality reduction method for dealing with non-Gaussian distribution data.
 
-Please cite this paper by:
+Please cite this paper via
+
 @ARTICLE{9314042,
   author={F. {Nie} and Z. {Wang} and R. {Wang} and X. {Li}},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
