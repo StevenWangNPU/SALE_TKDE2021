@@ -1,6 +1,8 @@
 # Adaptive Local Embedding Learning for Semi-supervised Dimensionality Reduction, TKDE 2021, to appear.
 
-A semi-supervised locality-preserved dimensionality reduction method for dealing with non-Gaussian distribution data.
+A semi-supervised locality-preserved dimensionality reduction method for dealing with non-Gaussian distribution data. 
+
+ALLDA_semi.m is the main function, and others are sub-function. Please remove the null space of data via PCA before you run this code, otherwise the algorithm maybe not convergent. 
 
 Please cite this paper via
 
